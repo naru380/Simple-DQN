@@ -14,7 +14,7 @@ grpcio==1.15.0
 gym==0.10.8
 gym-pull==0.1.7
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 Keras==2.2.4
 Keras-Applications==1.0.6
